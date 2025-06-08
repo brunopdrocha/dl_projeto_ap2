@@ -1,2 +1,4 @@
 .venv
 data
+stackoverflow_grouped_tags.csv
+stackoverflow_grouped_tags.csv.gz
